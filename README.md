@@ -1,2 +1,3 @@
 # tech_-CSP_impl
-In this repository we are going to discuss about Content Security Policy   
+Examples of how to implement Content Security Policies (CSP) in AspNetCore
+Source: https://medium.com/@technicadil_001/content-security-policy-csp-with-net-core-ebc00dcecc80
